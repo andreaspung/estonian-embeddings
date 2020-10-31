@@ -1,0 +1,3 @@
+Download corpora from 
+https://metashare.ut.ee/repository/browse/estonian-national-corpus-2019/cd9633fab22e11eaa6e4fa163e9d4547b71a2df64d1f43f1ac26dbd8508ea951/
+and unpack.
