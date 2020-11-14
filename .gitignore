@@ -1,5 +1,6 @@
 # Do not include corpora files
 *.prevert
+*.vert
 *.gz
 
 .ipynb_checkpoints/*
