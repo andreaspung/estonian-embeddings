@@ -4,3 +4,6 @@
 *.gz
 
 .ipynb_checkpoints/*
+
+# Do not include trained models
+*.model
