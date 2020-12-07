@@ -7,3 +7,6 @@
 
 # Do not include trained models
 *.model
+
+# Do not include IDE-specific files
+.idea/*
