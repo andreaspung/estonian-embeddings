@@ -9,4 +9,4 @@
 *.model
 
 # Do not include IDE-specific files
-.idea/*
+.idea
